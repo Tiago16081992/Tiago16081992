@@ -18,11 +18,13 @@ Desenvolvedor de software focado em **apps e sistemas**, atualmente desenvolvend
 - [**fit_app**](https://github.com/tiagocsdev/fit_app) — Aplicativo de acompanhamento de saúde e evolução física (Flutter/Dart), com gráficos de peso, histórico de medidas e galeria de progresso.
 - [**igrejanovavida**](https://github.com/tiagocsdev/igrejanovavida) — Site institucional desenvolvido para uma instituição religiosa (HTML/CSS).
 
-## 📊 Estatísticas
+## 📊 Linguagens que uso
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocsdev&layout=compact&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiagocsdev&show_icons=true&theme=tokyonight)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## 📫 Contato
 
