@@ -1,15 +1,33 @@
-### Olá, meu nome é Tiago.👋
+# Olá, eu sou o Tiago Cunha Silva 👨‍💻
 
-<!--
-**Tiago16081992/Tiago16081992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de software focado em **apps e sistemas**, atualmente desenvolvendo soluções com **Flutter/Dart**, **Python** e **web front-end**.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e ferramentas
 
-- 🔭 Atualmente estou trabalhando em alguns games com python3.
-- 🌱 Estou aprendendo html, css, python.
-- 👯 Procuro colaborar.
-- 🤔 Procuro ajuda com erros de Syntax em meus  códigos.
-- 💬 Pergunte-me sobre o que quiser.
-- 📫 Fale comigo através do meu e-mail: silvatiago16081992@gmail.com 
-- ⚡ Curisosidade: "Entrei para o mundo da Tecnologia alguns meses atrás, vendo vídeos na net, fiquei encantado e resolve estudar.
--->
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 🚀 Projetos em destaque
+
+- [**fit_app**](https://github.com/Tiago16081992/fit_app) — Aplicativo de acompanhamento de saúde e evolução física (Flutter/Dart), com gráficos de peso, histórico de medidas e galeria de progresso.
+- [**igrejanovavida**](https://github.com/Tiago16081992/igrejanovavida) — Site institucional desenvolvido para uma instituição religiosa (HTML/CSS).
+
+## 📊 Estatísticas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago16081992&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiago16081992&show_icons=true&theme=tokyonight)
+
+## 📫 Contato
+
+- E-mail: silvatiago16081992@gmail.com
+- GitHub: [@Tiago16081992](https://github.com/Tiago16081992)
+
+---
+
+> Em constante evolução, transformando código em soluções reais.
