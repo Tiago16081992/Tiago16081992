@@ -48,7 +48,7 @@
   <!-- title -->
   <text x="470" y="95" fill="url(#acc)" font-family="monospace" font-size="38" font-weight="bold">TIAGO CUNHA SILVA</text>
   <text x="470" y="128" fill="#a9b1d6" font-family="monospace" font-size="17">Desenvolvedor de Software</text>
-  <text x="470" y="156" fill="#565f89" font-family="monospace" font-size="15">Flutter &amp; Dart &middot; Python &middot; Web &middot; Linux</text>
+  <text x="470" y="156" fill="#565f89" font-family="monospace" font-size="15">Flutter &amp; Dart · Python · Web · Linux</text>
 
   <!-- code chips -->
   <rect x="1000" y="70" width="90" height="26" rx="13" fill="#7aa2f7" fill-opacity="0.15" stroke="#7aa2f7"/>
