@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/tiagocsdev/tiagocsdev/main/banner.svg?sanitize=true)
+<img src="https://github.com/tiagocsdev/tiagocsdev/raw/main/banner.svg" alt="banner">
 # Olá, eu sou o Tiago Cunha Silva 👨‍💻
 
 Desenvolvedor de software focado em **apps e sistemas**, atualmente desenvolvendo soluções com **Flutter/Dart**, **Python** e **web front-end**.
