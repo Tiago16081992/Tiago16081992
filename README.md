@@ -1,3 +1,4 @@
+![banner](https://raw.githubusercontent.com/tiagocsdev/tiagocsdev/main/banner.svg?sanitize=true)
 # Olá, eu sou o Tiago Cunha Silva 👨‍💻
 
 Desenvolvedor de software focado em **apps e sistemas**, atualmente desenvolvendo soluções com **Flutter/Dart**, **Python** e **web front-end**.
@@ -14,19 +15,19 @@ Desenvolvedor de software focado em **apps e sistemas**, atualmente desenvolvend
 
 ## 🚀 Projetos em destaque
 
-- [**fit_app**](https://github.com/Tiago16081992/fit_app) — Aplicativo de acompanhamento de saúde e evolução física (Flutter/Dart), com gráficos de peso, histórico de medidas e galeria de progresso.
-- [**igrejanovavida**](https://github.com/Tiago16081992/igrejanovavida) — Site institucional desenvolvido para uma instituição religiosa (HTML/CSS).
+- [**fit_app**](https://github.com/tiagocsdev/fit_app) — Aplicativo de acompanhamento de saúde e evolução física (Flutter/Dart), com gráficos de peso, histórico de medidas e galeria de progresso.
+- [**igrejanovavida**](https://github.com/tiagocsdev/igrejanovavida) — Site institucional desenvolvido para uma instituição religiosa (HTML/CSS).
 
 ## 📊 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago16081992&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocsdev&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiago16081992&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiagocsdev&show_icons=true&theme=tokyonight)
 
 ## 📫 Contato
 
 - E-mail: silvatiago16081992@gmail.com
-- GitHub: [@Tiago16081992](https://github.com/Tiago16081992)
+- GitHub: [@tiagocsdev](https://github.com/tiagocsdev)
 
 ---
 
