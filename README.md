@@ -1,4 +1,4 @@
-<img src="https://github.com/tiagocsdev/tiagocsdev/raw/main/banner.svg" alt="banner">
+<img src="https://raw.githubusercontent.com/tiagocsdev/tiagocsdev/26f11f0d16d175bc5b493851e6fc08e3f72d0e97/banner.svg?sanitize=true" alt="banner" width="100%">
 # Olá, eu sou o Tiago Cunha Silva 👨‍💻
 
 Desenvolvedor de software focado em **apps e sistemas**, atualmente desenvolvendo soluções com **Flutter/Dart**, **Python** e **web front-end**.
